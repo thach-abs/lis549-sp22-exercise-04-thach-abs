@@ -33,3 +33,9 @@ p, dl {
     margin-top: 0;
     margin-bottom: 1rem;
 }
+
+/* nav bar */
+nav {
+    position: fixed;
+
+}
