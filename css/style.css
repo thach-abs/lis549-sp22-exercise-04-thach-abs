@@ -12,6 +12,8 @@ h1 {
 }
 h2 {
     font-size: 3.5rem;
+    margin-top: 0;
+    margin-bottom: .5rem;
 }
 
 /* icons */
@@ -25,4 +27,8 @@ h2 {
     max-width: 960px;
     margin-left:auto; 
     margin-right: auto;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
 }
