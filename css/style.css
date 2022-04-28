@@ -13,3 +13,16 @@ h1 {
 h2 {
     font-size: 3.5rem;
 }
+
+/* icons */
+.material-icons {
+    position: relative;
+    top: 5px;
+}
+
+/* spacing */
+.container {
+    max-width: 960px;
+    margin-left:auto; 
+    margin-right: auto;
+}
