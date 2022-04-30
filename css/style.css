@@ -35,7 +35,7 @@ p, dl {
     margin-bottom: 1rem;
 }
 
-/* nav bar */
+/* nav bar */ /*check padding*/
 nav {
     position: fixed;
     top: 0px;
