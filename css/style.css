@@ -47,11 +47,9 @@ nav {
     padding-right: .5rem;
     padding-bottom: 1rem;
 }
-nav a {
 
-}
 nav li {
     display: inline;
-    margin: o 1rem
+    margin: 0 1rem; /*trbl*/
     padding: 0;
 }
