@@ -6,6 +6,7 @@ body {
 h1, h2 {
     font-family: "Raleway", Helvetica, sans-serif;
     font-weight: 300;
+    margin-bottom: .5rem;
 }
 h1 {
     font-size: 3.5rem;
@@ -67,3 +68,14 @@ nav a:hover {
     transition: .25s ease-out;
 }
 
+/* header check for spacing between sharp point coffee and caffenating huskies */
+header {
+    padding-top: 6rem;
+    padding-bottom: 1rem;
+    color: white;
+}
+
+header p {
+    font-style: italic;
+    font-size: 1.25rem;
+}
