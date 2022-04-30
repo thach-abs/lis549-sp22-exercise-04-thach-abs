@@ -52,4 +52,17 @@ nav li {
     display: inline;
     margin: 0 1rem; /*trbl*/
     padding: 0;
+    
 }
+
+nav a {
+    text-decoration-line: none;
+    color:black;
+
+}
+
+nav a:hover {
+    color: #f0f0f0;
+    border-bottom: .8rem solid #f0f0f0;
+}
+
