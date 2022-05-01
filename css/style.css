@@ -89,3 +89,11 @@ header p {
 #menu {
     background-color: #f0f0f0;
 }
+
+/* descriptive list */
+
+dt {
+    font-size: 125%; /*of rem?*/
+    font-weight: bold;
+    margin-top: 1rem;
+}
