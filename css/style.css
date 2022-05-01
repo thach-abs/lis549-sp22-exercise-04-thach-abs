@@ -106,3 +106,31 @@ dd {
     height: 200px;
     border-radius: 15px;
 }
+
+/* about section */
+
+#about {
+    background-color: #e0e0e0;
+    line-height: 1.5;
+}
+
+/* footer */
+
+footer {
+    color: white;
+    background-color: #3e1305;
+}
+
+footer a {
+    color: white;
+    text-decoration-line: none;
+}
+
+footer p {
+    margin: 0;
+    line-height: 1.25;
+}
+
+footer p:last-of-type {
+    padding-top: 8px;
+}
